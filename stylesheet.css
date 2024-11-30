@@ -1,0 +1,4 @@
+.bla::after{
+  display: inline-block;
+  content: url("https://cdn.pixabay.com/photo/2023/01/14/19/59/christmas-7718963_640.jpg");
+}
